@@ -40,7 +40,7 @@ II. レビュアー
 08. Merge pull request
 
 
-III. レビュアー
+III. レビュイー
 
 @ローカル
 09. $ git checkout master
